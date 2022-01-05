@@ -61,6 +61,7 @@ body {
 
   @include respond(phone) {
     font-size: 2.5rem;
+    margin-top: 3rem;
   }
 
   &:hover {
